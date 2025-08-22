@@ -1,0 +1,13 @@
+name: PSDoFramework
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/5bc93cd7-581b-46aa-8bda-6afaf3a4fb22
+description: An object orientated PowerShell development framework.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
